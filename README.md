@@ -10,7 +10,6 @@
 <!-- -🔭 I’m currently working on ...-->
 
 - 👯 I’m currently looking for an Internship Opportunity
-- 
 <!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
