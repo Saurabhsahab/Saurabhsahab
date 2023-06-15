@@ -9,7 +9,22 @@
 -->
 <!-- -🔭 I’m currently working on ...-->
 
-- 👯 I’m currently working for Ridecell as an intern 
+Hello, 
+
+I'm Saurabh Upadhayay, Software Development Engineer at Fi (Epifi Technologies). I am a passionate Software Development Engineer with experience in building innovative solutions and contributing to the development of various projects.
+
+During my internships at Epifi Technologies and Ridecell, I gained hands-on experience in developing and implementing software solutions using technologies such as Golang, Python, Django, Docker, Microservices, and PostgreSQL. I have also honed my skills in areas such as object-oriented programming, data structures, and algorithms.
+
+I am a proactive learner, always seeking opportunities to expand my knowledge and stay updated with the latest trends in the field of software development. I am highly motivated, detail-oriented, and enjoy solving complex problems through creative and efficient solutions.
+
+Aside from my technical expertise, I am a dedicated mentor at Masai, where I guide and support aspiring programmers in competitive programming using Core Java. I have also achieved commendable rankings in various coding competitions and hold certifications in Data Structures and Algorithms.
+
+If you are looking for a motivated and skilled Software Development Engineer with a strong foundation in backend development, I would be delighted to connect with you. Feel free to reach out to me for any collaboration or career opportunities.
+
+Thank you for visiting my profile, and I look forward to connecting with professionals in the software development community.
+
+Best regards,
+Saurabh Upadhayay
 <!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
